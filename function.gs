@@ -19,7 +19,7 @@ function calc2() {
 
 // パラメータ: 関数にデータを渡す
 function functionParameter(){
-  out1ToN(n)
+  out1ToN(5)
 }
 
 function out1ToN(n){

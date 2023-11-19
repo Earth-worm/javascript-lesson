@@ -6,7 +6,7 @@
   readDataFromSheet()       シートからデータを読み取る
 */
 
-const spreadSheetID = "1goKlICYi7ZINZ3cdfkPke2IHGCRR8LS2sxCh9oh20v4"
+const spreadSheetID = "{ write your sheet id }"
 const sheetName = "task"
 
 function createAndAccessSheet(){

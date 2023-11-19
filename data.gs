@@ -15,7 +15,7 @@ function storeData() {
   console.log("名前: ",name);
   console.log("年齢: ",age);
 
-  // TODO 変数movieを作成し、好きな映画の名前を入力しなさい
+  // TODO 変数movieを作成し、好きな映画の名前を代入しなさい
 }
 
 // 配列(Array): 複数のデータ要素をリストとして格納するためのコンテナ
